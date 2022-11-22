@@ -1,0 +1,4 @@
+﻿  server.c
+C:\Udacity embedded course pro\Payment Application\Payment Application\Server\server.c(295,41): warning C4133: 'function': incompatible types - from 'ST_transaction_t [255]' to 'const char *'
+C:\Udacity embedded course pro\Payment Application\Payment Application\Server\server.c(320,42): warning C4133: 'function': incompatible types - from 'ST_transaction_t [255]' to 'const char *'
+  Payment Application.vcxproj -> C:\Udacity embedded course pro\Payment Application\x64\Debug\Payment Application.exe
